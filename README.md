@@ -1,7 +1,7 @@
 ### Reflection on Assignment 4
 
 <p align="center">
-  <img width="821" alt="Screenshot 2024-01-11 194228" src="https://github.com/tkeqin/Assignment-4-Report-on-Industrial-Talks-2a/assets/148413538/fac47cd6-85b1-46a5-8175-3ef7a8a9d163">
+  <img width="500" alt="Screenshot 2024-01-11 194228" src="https://github.com/tkeqin/Assignment-4-Report-on-Industrial-Talks-2a/assets/148413538/fac47cd6-85b1-46a5-8175-3ef7a8a9d163">
 
 </p>
 
